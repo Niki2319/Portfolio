@@ -14,7 +14,7 @@ export const Projects = () => {
       description:
         "Developed a movie rating application allowing users to rate, add, delete, and view information for over 50 movies.",
       tech: ["Vue.js", "HTML", "JavaScript", "CSS"],
-      link: "#",
+      link: "https://github.com/Niki2319/Movie-rating-pages",
     },
     {
       title: "Chatbot",
