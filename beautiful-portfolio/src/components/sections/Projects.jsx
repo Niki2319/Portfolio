@@ -7,7 +7,7 @@ export const Projects = () => {
       description:
         "Developed a responsive portfolio using React and TailwindCSS with smooth animations, reusable components, and SEO optimization.",
       tech: ["React", "TailwindCSS", "Vite", "Framer Motion"],
-      link: "#",
+      link: "https://github.com/Niki2319/Portfolio",
     },    
     {
       title: "Movie Rating Site",
@@ -21,7 +21,7 @@ export const Projects = () => {
       description:
         "Created and deployed a Python-powered Chatbot using the OpenAI GPT-3.5-turbo model for intelligent conversations.",
       tech: ["Python", "Flask", "OpenAI API", "HTML/CSS"],
-      link: "#",
+      link: "https://github.com/Niki2319/ChatGPT-api-python",
     },
     {
       title: "Fantasy Cricket",
